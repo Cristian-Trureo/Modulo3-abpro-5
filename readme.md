@@ -1,8 +1,8 @@
 <h1 align="center"># Bases de datos relacionales – DDL</h1>
 <h2 align="center">Desarrollo</h2>
 
-![exampleb](https://raw.githubusercontent.com/Cristian-Trureo/Modulo3-abpro-5/main/mysql.png)
-<img align="right" width="200" height="200" src="[[https://www.pexels.com/photo/photo-of-grey-tabby-kitten-lying-down-2558605](https://raw.githubusercontent.com/Cristian-Trureo/Modulo3-abpro-5/main/mysql.png)](https://raw.githubusercontent.com/Cristian-Trureo/Modulo3-abpro-5/main/mysql.png)">
+![exampleb align="center"](https://raw.githubusercontent.com/Cristian-Trureo/Modulo3-abpro-5/main/mysql.png)
+
 <h2 align="center">Parte 1: Crear entorno de trabajo</h2>
 - Crear una base de datos
 - Crear un usuario con todos los privilegios para trabajar con la base de datos recién creada.
