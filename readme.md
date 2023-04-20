@@ -1,7 +1,7 @@
 <h1 align="center"># Bases de datos relacionales – DDL</h1>
 <h2 align="center">Desarrollo</h2>
 
-<img align="center" src="https://raw.githubusercontent.com/Cristian-Trureo/Modulo3-abpro-5/main/mysql2.png" width="250">
+<img align='right' src="https://raw.githubusercontent.com/Cristian-Trureo/Modulo3-abpro-5/main/mysql2.png" width="250">
 
 
 <h3>Parte 1: Crear entorno de trabajo</h3>
